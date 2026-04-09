@@ -1,0 +1,21 @@
+{
+  "full_name": "Satish D",
+  "name": "SD",
+  "current_role": "systems principal engineer",
+  "location": "Bengaluru",
+  "email": "dsatish574@gmail.com",
+  "linkedin": "linkedin.com/in/satish-devan-84b589101/",
+  "specialties": [
+    "cloud architect",
+    "storage architect",
+    "ai architect"
+  ],
+  "years_experience": 15,
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Kuvempu",
+      "year": "2010"
+    }
+  ]
+}
